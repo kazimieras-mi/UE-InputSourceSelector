@@ -1,0 +1,24 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Input Source Selector System",
+	"Description": "Keeps track of the current input source used and allows any other system to ask what it is.",
+	"Category": "Gameplay",
+	"CreatedBy": "Kazimieras Mikelis",
+	"CreatedByURL": "https://mikelis.net/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://mikelis.net/",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "InputSourceSelector",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
